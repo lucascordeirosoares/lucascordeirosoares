@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas
 
-<!--
-**lucascordeirosoares972-debug/lucascordeirosoares972-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou em constante aprendizado na área de tecnologia.  
+Atualmente estou focado em construir uma base sólida em desenvolvimento web e boas práticas de programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade de estágio na área de Tecnologia da Informação, onde eu possa aprender na prática, evoluir minhas habilidades e contribuir com o time.
+
+---
+
+## 📚 Em aprendizado atualmente
+
+- HTML e CSS (fundamentos e estruturação de páginas)
+- JavaScript (lógica e interatividade)
+- Python (lógica de programação e introdução ao back-end)
+- Git e GitHub (controle de versão)
+- Conceitos básicos de front-end
+
+---
+
+## 🚀 Em desenvolvimento
+
+Estou praticando pequenos projetos para fixar o aprendizado e melhorar minha lógica de programação e organização de código.
+
+---
+
+## 💡 Sobre mim
+
+Gosto de aprender coisas novas, sou dedicado e busco evoluir constantemente, tanto na área acadêmica quanto prática.
+
+---
+
+## 📌 Status
+
+📖 Estudando e construindo minha base em desenvolvimento web  
+🎯 Foco atual: aprendizado + prática consistente
