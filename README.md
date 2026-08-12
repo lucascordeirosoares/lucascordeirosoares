@@ -78,7 +78,9 @@ Atualmente, estou focado principalmente em **Python, Back-end, Front-end, Git/Gi
 ## 📈 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lucascordeirosoares\&theme=github-dark)
+## 📊 My GitHub Statistics
 
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascordeirosoares&show_icons=true&theme=github_dark)
 ---
 
 ## 📫 Onde me encontrar
