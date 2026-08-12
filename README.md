@@ -18,7 +18,6 @@ Tenho interesse em **desenvolvimento de software, Front-end, Back-end, Cloud e I
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lucascordeirosoares&theme=github-dark&hide_border=true" width="60%" />
-</p>
 
 ### Contribution Snake
 
