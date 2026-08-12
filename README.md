@@ -17,7 +17,7 @@ Tenho interesse em **desenvolvimento de software, Front-end, Back-end, Cloud e I
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucascordeirosoares&show_icons=true&hide_border=true&theme=github_dark" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=lucascordeirosoares&theme=github-dark&hide_border=true" width="60%" />
 </p>
 
 ### Contribution Snake
