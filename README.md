@@ -9,61 +9,126 @@
   💻 "Learning today, building tomorrow."
 </p>
 
----
+# 👋 Olá, eu sou Lucas Soares!
 
-## 👨‍💻 Sobre mim
+### 💻 Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonado por tecnologia e desenvolvimento de software.
+> *"Learning today, building tomorrow."*
 
-Atualmente estou construindo uma base sólida em programação por meio de projetos práticos e estudos contínuos, buscando evolução constante tanto no aspecto técnico quanto profissional.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **Senac-DF** e atualmente atuo na área de **Suporte de TI**.
 
-Meu principal objetivo é conquistar minha primeira oportunidade de estágio em Tecnologia da Informação e continuar evoluindo minhas habilidades.
+Tenho interesse em desenvolvimento de software e venho construindo minha experiência através de projetos práticos, estudos e desafios do dia a dia.
 
----
-
-## 🚀 Tecnologias em estudo
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- Python  
-- Git & GitHub  
+Atualmente, estou focado principalmente em **Python, Back-end, Front-end, Git/GitHub e Cloud**, buscando evoluir constantemente como desenvolvedor.
 
 ---
 
-## 🎯 Objetivos para 2026
+## 🚀 Tecnologias & Estudos
 
-- Evoluir em Front-end (HTML, CSS, JS e React)
-- Criar projetos para portfólio
-- Aprender React
-- Explorar Back-end e Cloud
-- Conseguir meu primeiro estágio em TI
+### 💻 Desenvolvimento
+
+* Python
+* HTML5
+* CSS3
+* JavaScript
+* React
+
+### ⚙️ Back-end
+
+* Flask
+* FastAPI
+* SQL
+* SQLite
+
+### 🛠️ Ferramentas
+
+* Git
+* GitHub
+* VS Code
+
+### ☁️ Em aprendizado
+
+* Cloud Computing
+* APIs REST
+* Banco de Dados
+* Arquitetura de Software
+
+---
+
+## 📚 Atualmente estudando
+
+* 🐍 Python e desenvolvimento Back-end
+* ⚛️ React e desenvolvimento Front-end
+* 🗄️ Banco de Dados e SQL
+* ☁️ Cloud Computing
+* 🧩 Engenharia de Software
+* 🔧 Git e boas práticas de desenvolvimento
+
+---
+
+## 🎯 Objetivos
+
+* Evoluir como desenvolvedor Full Stack
+* Construir projetos reais para meu portfólio
+* Aprofundar meus conhecimentos em Back-end
+* Aprender React e desenvolver aplicações modernas
+* Explorar Cloud Computing
+* Continuar adquirindo experiência profissional em Tecnologia
 
 ---
 
 ## 📂 Projetos
 
-- 💡 **projects** → Projetos pessoais  
-- 🎓 **ads-college** → Atividades da graduação  
-- 📚 **frontend-learning** → Estudos e projetos de Front-end
+### 🏋️ Sistema-Treinos
+
+Sistema web para gerenciamento de treinos, desenvolvido com foco em **Python e Back-end**.
+
+**Tecnologias:** Python • Flask/FastAPI • SQL • Git
+
+🔗 [Ver projeto](https://github.com/lucascordeirosoares/Sistema-Treinos)
+
+### 🏙️ Projeto Cidadão
+
+Aplicação voltada para registro e comunicação de problemas urbanos.
+
+**Tecnologias:** HTML • CSS • JavaScript
+
+🔗 [Ver projeto](https://github.com/lucascordeirosoares/projeto-cidadao)
+
+### 🎓 ADS College
+
+Repositório com atividades, exercícios e projetos desenvolvidos durante a graduação em ADS.
+
+🔗 [Ver repositório](https://github.com/lucascordeirosoares/ads-college)
+
+### 🐍 Python Elevador
+
+Projeto desenvolvido durante os estudos de programação em Python.
+
+🔗 [Ver projeto](https://github.com/lucascordeirosoares/python-Elevador)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucascordeirosoares&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascordeirosoares&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascordeirosoares\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascordeirosoares\&layout=compact\&theme=github_dark)
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 GitHub Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascordeirosoares/lucascordeirosoares/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascordeirosoares/lucascordeirosoares/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lucascordeirosoares/lucascordeirosoares/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=lucascordeirosoares\&theme=github-dark)
+
+---
+
+## 📫 Onde me encontrar
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/lucascordeirosoares/)
+* 🐙 [GitHub](https://github.com/lucascordeirossoares)
+
+---
+
+⭐ *Sempre aprendendo, construindo e evoluindo.*
+
