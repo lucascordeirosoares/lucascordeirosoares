@@ -22,6 +22,7 @@ Tenho interesse em **desenvolvimento de software, Front-end, Back-end, Cloud e I
 ### Contribution Snake
 
 <p align="center"> <img src="https://raw.githubusercontent.com/lucascordeirosoares/lucascordeirosoares/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" /> </p>
+
 ### Contato
 
 [LinkedIn](https://www.linkedin.com/in/lucascordeirosoares/) • [GitHub](https://github.com/lucascordeirosoares)
