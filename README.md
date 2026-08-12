@@ -9,8 +9,6 @@
   💻 "Learning today, building tomorrow."
 </p>
 
-# 👋 Olá, eu sou Lucas Soares!
-
 ### 💻 Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
 
 > *"Learning today, building tomorrow."*
@@ -126,7 +124,7 @@ Projeto desenvolvido durante os estudos de programação em Python.
 ## 📫 Onde me encontrar
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/lucascordeirosoares/)
-* 🐙 [GitHub](https://github.com/lucascordeirossoares)
+* 🐙 [GitHub](https://github.com/lucascordeirosoares)
 
 ---
 
