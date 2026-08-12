@@ -75,46 +75,6 @@ Atualmente, estou focado principalmente em **Python, Back-end, Front-end, Git/Gi
 
 ---
 
-## 📂 Projetos
-
-### 🏋️ Sistema-Treinos
-
-Sistema web para gerenciamento de treinos, desenvolvido com foco em **Python e Back-end**.
-
-**Tecnologias:** Python • Flask/FastAPI • SQL • Git
-
-🔗 [Ver projeto](https://github.com/lucascordeirosoares/Sistema-Treinos)
-
-### 🏙️ Projeto Cidadão
-
-Aplicação voltada para registro e comunicação de problemas urbanos.
-
-**Tecnologias:** HTML • CSS • JavaScript
-
-🔗 [Ver projeto](https://github.com/lucascordeirosoares/projeto-cidadao)
-
-### 🎓 ADS College
-
-Repositório com atividades, exercícios e projetos desenvolvidos durante a graduação em ADS.
-
-🔗 [Ver repositório](https://github.com/lucascordeirosoares/ads-college)
-
-### 🐍 Python Elevador
-
-Projeto desenvolvido durante os estudos de programação em Python.
-
-🔗 [Ver projeto](https://github.com/lucascordeirosoares/python-Elevador)
-
----
-
-## 📊 GitHub Stats
-
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascordeirosoares\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascordeirosoares\&layout=compact\&theme=github_dark)
-
----
-
 ## 📈 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lucascordeirosoares\&theme=github-dark)
