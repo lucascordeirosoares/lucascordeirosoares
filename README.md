@@ -4,92 +4,31 @@
 
 <h1 align="center">Lucas Soares</h1>
 
-<p align="center">
-  <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-  💻 "Learning today, building tomorrow."
-</p>
+# Lucas Soares
 
-### 💻 Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
+**Estudante de ADS & Desenvolvedor em formação**
 
-> *"Learning today, building tomorrow."*
+Atualmente, estudo **Análise e Desenvolvimento de Sistemas (ADS)** no **Senac-DF** e atuo na área de **Suporte de TI**.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **Senac-DF** e atualmente atuo na área de **Suporte de TI**.
+Tenho interesse em **desenvolvimento de software, Front-end, Back-end, Cloud e IA**, buscando aplicar meus conhecimentos em projetos práticos e evoluir constantemente como profissional.
 
-Tenho interesse em desenvolvimento de software e venho construindo minha experiência através de projetos práticos, estudos e desafios do dia a dia.
+### Tecnologias
 
-Atualmente, estou focado principalmente em **Python, Back-end, Front-end, Git/GitHub e Cloud**, buscando evoluir constantemente como desenvolvedor.
+**Python • JavaScript • HTML • CSS • React • Flask • FastAPI • SQL • Git • GitHub**
 
----
-
-## 🚀 Tecnologias & Estudos
-
-### 💻 Desenvolvimento
-
-* Python
-* HTML5
-* CSS3
-* JavaScript
-* React
-
-### ⚙️ Back-end
-
-* Flask
-* FastAPI
-* SQL
-* SQLite
-
-### 🛠️ Ferramentas
-
-* Git
-* GitHub
-* VS Code
-
-### ☁️ Em aprendizado
-
-* Cloud Computing
-* APIs REST
-* Banco de Dados
-* Arquitetura de Software
-
----
-
-## 📚 Atualmente estudando
-
-* 🐍 Python e desenvolvimento Back-end
-* ⚛️ React e desenvolvimento Front-end
-* 🗄️ Banco de Dados e SQL
-* ☁️ Cloud Computing
-* 🧩 Engenharia de Software
-* 🔧 Git e boas práticas de desenvolvimento
-
----
-
-## 🎯 Objetivos
-
-* Evoluir como desenvolvedor Full Stack
-* Construir projetos reais para meu portfólio
-* Aprofundar meus conhecimentos em Back-end
-* Aprender React e desenvolver aplicações modernas
-* Explorar Cloud Computing
-* Continuar adquirindo experiência profissional em Tecnologia
-
----
-
-## 📊 GitHub Statistics & Activity
+### Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucascordeirosoares&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=lucascordeirosoares&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
----
+### Contribution Snake
 
-## 📫 Onde me encontrar
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucascordeirosoares/lucascordeirosoares/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/lucascordeirosoares/)
-* 🐙 [GitHub](https://github.com/lucascordeirosoares)
+### Contato
 
----
-
-⭐ *Sempre aprendendo, construindo e evoluindo.*
-
+[LinkedIn](https://www.linkedin.com/in/lucascordeirosoares/) • [GitHub](https://github.com/lucascordeirosoares)
